@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SkyeSpotifyRipper")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f19ba9bd270383b9adc36a04e469a29163e436f0")]
 [assembly: System.Reflection.AssemblyProductAttribute("SkyeSpotifyRipper")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SkyeSpotifyRipper")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

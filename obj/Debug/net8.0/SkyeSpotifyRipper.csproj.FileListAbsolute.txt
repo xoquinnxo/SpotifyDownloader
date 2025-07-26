@@ -22,3 +22,4 @@
 /home/ego/C/SkyeSpotifyRipper/bin/Debug/net8.0/JetBrains.Annotations.dll
 /home/ego/C/SkyeSpotifyRipper/bin/Debug/net8.0/Ude.NetStandard.dll
 /home/ego/C/SkyeSpotifyRipper/bin/Debug/net8.0/ATL.dll
+/home/ego/C/SkyeSpotifyRipper/obj/Debug/net8.0/SkyeSpotifyRipper.sourcelink.json

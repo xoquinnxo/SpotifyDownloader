@@ -7,12 +7,12 @@ int main(){
     strcpy(url,GetURL());
     DownloadMP3(url);
     runCSmetadata();
-    remove("temp.txt");
-    remove("temp2.txt");
-    remove("temp3.txt");
-    remove("artist.txt");
-    remove("album.txt");
-    remove("title.txt");
+    remove("temp/temp.txt");
+    remove("temp/temp2.txt");
+    remove("temp/temp3.txt");
+    remove("temp/artist.txt");
+    remove("temp/album.txt");
+    remove("temp/title.txt");
 
 
     return 0;

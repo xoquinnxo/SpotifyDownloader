@@ -23,6 +23,7 @@ class YoutubeGetURL
 
             Metadata.EditSongData();
             Console.WriteLine("Metadata written!");
+            
             Environment.Exit(0);
         }
         else
@@ -40,18 +41,11 @@ class YoutubeGetURL
 
     static async void Search()
     {
-        // Disable logging
         Log.setMode(false);
-
-        // Keyword
+        
         string querystring = search;
 
-        // Number of result pages
         int querypages = 1;
-
-        ////////////////////////////////
-        // Start searching
-        ////////////////////////////////
 
         VideoSearch videos = new VideoSearch();
         var items = await videos.GetVideos(querystring, querypages);
